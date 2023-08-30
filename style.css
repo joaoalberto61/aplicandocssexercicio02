@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+    background-color: azure;
+}
+
+p {
+    font-family: Verdana;
+    font-size: medium;
+    color: rgb(19, 18, 18);
+}
+
+h1 {
+    font-family: Tahoma;
+    font-size: large;
+    color: blue;
+}
+
+h3 {
+    font-family: Georgia;
+    font-size: large;
+    color: brown;
+}
+
+#tituloinicial {
+    color: red;
+}
+
+.textoinicial {
+    color: blue;
+}
+
+#tituloboaviagem {
+    color: aqua;
+}
+
+.tubarao {
+    color: rgba(255, 54, 54, 0.781);
+}
+
+#pontosfavoritos {
+    color: crimson;
+}
+
+.parque {
+    color: green;
+}
